@@ -1,4 +1,4 @@
-# London Bike Rides Visualization
+# London Bike Rides
 
 ### Project Overview
 This project focuses on analyzing and visualizing data related to bike rides in London during a specific time period. Additionally, it explores the relationship between temperature and wind speed during the same time frame. The project aims to provide insights into bike ride patterns and the impact of weather conditions on bike usage.
